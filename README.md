@@ -69,6 +69,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+https://console.firebase.google.com/project/bmovieflix/overview'
+
 ![Screenshot (152)](https://user-images.githubusercontent.com/93579606/178020601-e09f3059-1aad-4b3c-a5f7-05b2628c7ae2.png)
 
 ![Screenshot (153)](https://user-images.githubusercontent.com/93579606/178020654-3025e23a-de3b-412f-b817-b298683fef1a.png)
