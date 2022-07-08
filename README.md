@@ -94,7 +94,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Saved shows in Account Page
 ![Screenshot (156)](https://user-images.githubusercontent.com/93579606/178021011-25568ed0-b32a-43a7-924d-0a6d42c79197.png)
 
-### POP Box for login for save shows 
+### Pop Box for Login for Saved Shows 
 ![Screenshot (157)](https://user-images.githubusercontent.com/93579606/178021036-8792b24f-f0a8-41c7-b0e1-0817e3655a6e.png)
 
 ### Error for Sign In wrong password or wrong Username
